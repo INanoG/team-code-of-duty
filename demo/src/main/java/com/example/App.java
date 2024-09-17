@@ -24,7 +24,7 @@ public class App extends Application {
         // scene = new Scene(loadFXML("primary"), 640, 480);
         // stage.setScene(scene);
         // stage.show();
-    
+        
         //Creating an image 
         Image image = new Image(new FileInputStream("demo/src/main/resources/chart.png"));  
 
@@ -45,7 +45,7 @@ public class App extends Application {
         Scene scene = new Scene(root, 500, 500);  
 
         //Setting title to the Stage 
-        stage.setTitle("Code of Duteeeeeeehhh");  
+        stage.setTitle("CodeOfDuty");  
 
         //Adding scene to the stage 
         stage.setScene(scene);
